@@ -1,0 +1,41 @@
+html {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    
+    background-color: rgb(79, 124, 207);
+}
+
+body {
+    background-color:   rgb(255, 255, 255);
+}
+
+h1 {
+    color: rgb(231, 228, 228);
+    text-shadow: 3px 3px 5px #d8d1d1;
+    text-decoration: underline;
+    font-size: 60px;
+}
+
+p {
+    font-size: 25px;
+}
+
+footer {
+    background-color: blueviolet;
+    font-size: 20px;
+    border: 2px solid rgb(208, 22, 255)
+}
+
+ol {
+    font-size: 34px;
+}
+
+li {
+    border: 1.5px solid;
+    border-radius: 30px;
+}
